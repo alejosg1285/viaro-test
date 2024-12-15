@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Student>
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center">Students</h1>
+
+<p class="ctas">
+	@Html.ActionLink("New", "New", "Student", null, new { @class = "btn btn-sm btn-primary" })
+</p>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>#</th>
+			<th>Name</th>
+			<th>Lastname</th>
+			<th>Genre</th>
+			<th>Birthday</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@if (Model.Count() == 0)
+		{
+			<tr>
+				<td colspan="6">Any data was found</td>
+			</tr>
+		}
+		else
+		{
+			@foreach (Student student in Model)
+			{
+				<tr>
+					<td>@student.Id</td>
+					<td>@student.Name</td>
+					<td>@student.LastName</td>
+					<td>@student.Genre.Name</td>
+					<td>@student.Birthday</td>
+					<td>
+						<div class="ctas">
+							@Html.ActionLink("Delete", "Delete", "Student", new { Id = student.Id }, new { @class = "btn btn-sm btn-danger" })
+							@Html.ActionLink("Edit", "Edit", "Student", new { Id = student.Id }, new { @class = "btn btn-sm btn-secondary" })
+						</div>
+					</td>
+				</tr>
+			}
+		}
+	</tbody>
+</table>

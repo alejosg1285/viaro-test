@@ -1,0 +1,48 @@
+﻿@model IEnumerable<StudentGrade>
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center">Student - Grades</h1>
+
+<p class="ctas">
+	@Html.ActionLink("New", "Create", "StudentGrade", null, new { @class = "btn btn-sm btn-primary" })
+</p>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>#</th>
+			<th>Student</th>
+			<th>Grade</th>
+			<th>Section</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@if (Model.Count() == 0)
+		{
+			<tr>
+				<td colspan="5">Any data was found</td>
+			</tr>
+		}
+		else
+		{
+			@foreach (StudentGrade item in Model)
+			{
+				<tr>
+					<td>@item.Id</td>
+					<td>@item.Section</td>
+					<td>@item.Student.Name @item.Student.LastName</td>
+					<td>@item.Grade.Name</td>
+					<td>
+						<div class="ctas">
+							@Html.ActionLink("Delete", "Delete", "StudentGrade", new { Id = item.Id }, new { @class = "btn btn-sm btn-danger" })
+							@Html.ActionLink("Edit", "Edit", "StudentGrade", new { Id = item.Id }, new { @class = "btn btn-sm btn-secondary" })
+						</div>
+					</td>
+				</tr>
+			}
+		}
+	</tbody>
+</table>

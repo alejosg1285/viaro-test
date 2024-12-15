@@ -1,0 +1,41 @@
+﻿@model TeacherFormViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model.Teacher.Id == 0)
+{
+	<h3 class="text-center">
+		New Teacher
+	</h3>
+}
+else
+{
+	<h3 class="text-center">
+		Edit Teacher
+	</h3>
+}
+
+@using (Html.BeginForm("Save", "Teacher"))
+{
+	@Html.HiddenFor(m => m.Teacher.Id)
+	@Html.AntiForgeryToken()
+	<div class="form-group">
+		@Html.LabelFor(m => m.Teacher.Name)
+		@Html.TextBoxFor(m => m.Teacher.Name, new { @class = "form-control" })
+		@Html.ValidationMessageFor(m => m.Teacher.Name)
+	</div>
+	<div class="form-group">
+		@Html.LabelFor(m => m.Teacher.Lastname)
+		@Html.TextBoxFor(m => m.Teacher.Lastname, new { @class = "form-control" })
+		@Html.ValidationMessageFor(m => m.Teacher.Lastname)
+	</div>
+	<div class="form-group">
+		@Html.LabelFor(m => m.Teacher.GenreId)
+		@Html.DropDownListFor(m => m.Teacher.GenreId, new SelectList(Model.Genres, "Id", "Name"), "Select gender", new { @class = "form-control" })
+		@Html.ValidationMessageFor(m => m.Teacher.GenreId)
+	</div>
+	<p class="ctas">
+		<button type="submit" class="btn btn-success">Save</button>
+	</p>
+}

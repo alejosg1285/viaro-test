@@ -1,0 +1,21 @@
+﻿@model TeacherFormViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3 class="text-center">Delete teacher</h3>
+
+@using (Html.BeginForm("Delete", "Teacher"))
+{
+	@Html.AntiForgeryToken()
+	@Html.HiddenFor(m => m.Teacher.Id)
+	<div>
+		<div class="text-center">
+			¡Are you sure wanto to delete the teacher <strong>@Model.Teacher.Name @Model.Teacher.Lastname</strong>?
+		</div>
+		<div class="ctas">
+			<button type="submit" class="btn btn-sm btn-danger">Delete</button>
+			@Html.ActionLink("Cancel", "Index", "Teacher", null, new { @class = "btn btn-sm btn-primary" })
+		</div>
+	</div>
+}

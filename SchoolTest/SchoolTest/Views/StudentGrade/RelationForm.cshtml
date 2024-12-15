@@ -1,0 +1,41 @@
+﻿@model RelationFormViewModel
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model.StudentGrade.Id == 0)
+{
+	<h3 class="text-center">
+		New Student - Grade
+	</h3>
+}
+else
+{
+	<h3 class="text-center">
+		Edit Student - Grade
+	</h3>
+}
+
+@using (Html.BeginForm("Save", "StudentGrade"))
+{
+	@Html.HiddenFor(m => m.StudentGrade.Id)
+	@Html.AntiForgeryToken()
+	<div class="form-group">
+		@Html.LabelFor(m => m.StudentGrade.Section)
+		@Html.TextBoxFor(m => m.StudentGrade.Section, new { @class = "form-control" })
+		@Html.ValidationMessageFor(m => m.StudentGrade.Section)
+	</div>
+	<div class="form-group">
+		@Html.LabelFor(m => m.StudentGrade.StudentId)
+		@Html.DropDownListFor(m => m.StudentGrade.StudentId, new SelectList(Model.Students, "Id", "Name"), "Select student", new { @class = "form-control" })
+		@Html.ValidationMessageFor(m => m.StudentGrade.StudentId)
+	</div>
+	<div class="form-group">
+		@Html.LabelFor(m => m.StudentGrade.GradeId)
+		@Html.DropDownListFor(m => m.StudentGrade.GradeId, new SelectList(Model.Grades, "Id", "Name"), "Select student", new { @class = "form-control" })
+		@Html.ValidationMessageFor(m => m.StudentGrade.GradeId)
+	</div>
+	<p class="ctas">
+		<button type="submit" class="btn btn-success">Save</button>
+	</p>
+}

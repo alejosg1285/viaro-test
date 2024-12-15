@@ -1,0 +1,36 @@
+﻿@model GradeFormViewModel
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model.Grade.Id == 0)
+{
+	<h3 class="text-center">
+		New Grade
+	</h3>
+}
+else
+{
+	<h3 class="text-center">
+		Edit Grade
+	</h3>
+}
+
+@using (Html.BeginForm("Save", "Grade"))
+{
+	@Html.HiddenFor(m => m.Grade.Id)
+	@Html.AntiForgeryToken()
+	<div class="form-group">
+		@Html.LabelFor(m => m.Grade.Name)
+		@Html.TextBoxFor(m => m.Grade.Name, new { @class = "form-control" })
+		@Html.ValidationMessageFor(m => m.Grade.Name)
+	</div>
+	<div class="form-group">
+		@Html.LabelFor(m => m.Grade.Teacherid)
+		@Html.DropDownListFor(m => m.Grade.Teacherid, new SelectList(Model.Teachers, "Id", "Name"), "Select teacher", new { @class = "form-control" })
+		@Html.ValidationMessageFor(m => m.Grade.Teacherid)
+	</div>
+	<p class="ctas">
+		<button type="submit" class="btn btn-success">Save</button>
+	</p>
+}

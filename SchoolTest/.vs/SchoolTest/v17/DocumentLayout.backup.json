@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\controllers\\studentgradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\controllers\\studentgradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\studentgrade\\relationform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\studentgrade\\relationform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\models\\studentgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\models\\studentgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Migrations\\20241215010718_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolTest\\Migrations\\20241215010718_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\studentgrade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\studentgrade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\student\\studentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\student\\studentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\studentgrade\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\studentgrade\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\viewmodel\\relationformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\viewmodel\\relationformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\grade\\gradeform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\grade\\gradeform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\viewmodel\\gradeformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\viewmodel\\gradeformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\grade\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\grade\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\grade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\grade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\teacher\\teacherform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\teacher\\teacherform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|c:\\users\\dell\\desktop\\viaro-test\\schooltest\\schooltest\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F67C7B-9922-4906-B973-69F21394EF55}|SchoolTest\\SchoolTest.csproj|solutionrelative:schooltest\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241215010718_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Migrations\\20241215010718_InitialMigration.cs",
+              "RelativeDocumentMoniker": "SchoolTest\\Migrations\\20241215010718_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Migrations\\20241215010718_InitialMigration.cs",
+              "RelativeToolTip": "SchoolTest\\Migrations\\20241215010718_InitialMigration.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwGIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T01:07:19.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\appsettings.json",
+              "RelativeToolTip": "SchoolTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T00:48:29.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentGrade.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Models\\StudentGrade.cs",
+              "RelativeDocumentMoniker": "SchoolTest\\Models\\StudentGrade.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Models\\StudentGrade.cs",
+              "RelativeToolTip": "SchoolTest\\Models\\StudentGrade.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T00:16:44.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\StudentGrade\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\StudentGrade\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\StudentGrade\\Delete.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\StudentGrade\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T00:10:28.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelationForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\StudentGrade\\RelationForm.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\StudentGrade\\RelationForm.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\StudentGrade\\RelationForm.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\StudentGrade\\RelationForm.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T00:00:12.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RelationFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\ViewModel\\RelationFormViewModel.cs",
+              "RelativeDocumentMoniker": "SchoolTest\\ViewModel\\RelationFormViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\ViewModel\\RelationFormViewModel.cs",
+              "RelativeToolTip": "SchoolTest\\ViewModel\\RelationFormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:50:52.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\StudentGrade\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\StudentGrade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\StudentGrade\\Index.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\StudentGrade\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T23:49:43.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentGradeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Controllers\\StudentGradeController.cs",
+              "RelativeDocumentMoniker": "SchoolTest\\Controllers\\StudentGradeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Controllers\\StudentGradeController.cs*",
+              "RelativeToolTip": "SchoolTest\\Controllers\\StudentGradeController.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAASwFgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:49:14.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GradeFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\ViewModel\\GradeFormViewModel.cs",
+              "RelativeDocumentMoniker": "SchoolTest\\ViewModel\\GradeFormViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\ViewModel\\GradeFormViewModel.cs",
+              "RelativeToolTip": "SchoolTest\\ViewModel\\GradeFormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:37:48.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T23:35:48.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Grade\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\Grade\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Grade\\Delete.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\Grade\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T23:33:55.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GradeForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Grade\\GradeForm.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\Grade\\GradeForm.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Grade\\GradeForm.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\Grade\\GradeForm.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T23:25:47.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Grade\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\Grade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Grade\\Index.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\Grade\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T23:21:30.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "SchoolTest\\Controllers\\GradeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "SchoolTest\\Controllers\\GradeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:20:51.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Teacher\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\Teacher\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Teacher\\Delete.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\Teacher\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T23:14:35.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolTest\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolTest\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:10:09.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolTest\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolTest\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:09:55.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TeacherForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Teacher\\TeacherForm.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\Teacher\\TeacherForm.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Teacher\\TeacherForm.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\Teacher\\TeacherForm.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T22:59:34.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T22:50:28.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "SchoolTest\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "SchoolTest\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:49:53.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T22:25:27.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Student\\StudentForm.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\Student\\StudentForm.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Student\\StudentForm.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\Student\\StudentForm.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T21:32:50.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolTest\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "SchoolTest\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T21:14:17.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolTest\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolTest\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:11:37.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolTest\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\viaro-test\\SchoolTest\\SchoolTest\\Program.cs",
+              "RelativeToolTip": "SchoolTest\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:47:01.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
